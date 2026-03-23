@@ -13,7 +13,7 @@
 <!-- Visitas do Perfil -->
 <img src="https://komarev.com/ghpvc/?username=jotadeb-github-username&color=blueviolet">
 
-- 👋 Me chamo João Daniel de Barros e tenho 19 anos.
+- 👋 Me chamo João Daniel de Barros e tenho 20 anos.
 - 📌 Moro em Maringá, PR.
 - 🎓 Estudante de **Engenharia de Software** na **Unicesumar**.
 - ✍ Estudando **HTML**, **CSS** e **Javascript**.
